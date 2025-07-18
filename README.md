@@ -18,19 +18,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mks1311&label=Profile%20views&color=0e75b6&style=flat" alt="Mks1311" /> </p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mks1311" alt="Mks1311" /></a></p>
 
-# Certifications
-
-<p align="left">
-    <a href="https://coursera.org/share/ff052add9ae4cc0df92338f597872797">
-        <img src="https://github.com/user-attachments/assets/5cb317f2-411b-4b9f-b6fb-91939489e608" alt="Google Cybersecurity" width="30%">
-    </a>
-    <a href="https://coursera.org/share/9a9d83b6ee898affa58ab2bfd21ec98f">
-        <img src="https://github.com/user-attachments/assets/e44bd696-81e8-43b0-ac02-317375da7e0d" alt="Google Prompting Essentials" width="30%">
-    </a>
-    <a href="https://coursera.org/share/db39ec1c0fc680f94812b50944bd9b19">
-        <img src="https://github.com/user-attachments/assets/a4089368-1feb-4d9e-80a0-ab9158a1911c" alt="Google AI Essentials" width="30%">
-    </a>
-</p>
 
 <h1 align="left">💻Languages and Tools</h1>
 <!-- Icons stay the same as your original -->
