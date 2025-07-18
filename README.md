@@ -26,7 +26,7 @@
 
 <h2>⚡️ Where to find me</h2>
 <p>
-<a target="_blank" href="[https://www.linkedin.com/in/Mks1311/](https://www.linkedin.com/in/manish-kumar-singh-082627214/)" style="display: inline-block;">
+<a target="_blank" href="https://www.linkedin.com/in/manish-kumar-singh-082627214/" style="display: inline-block;">
 <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
 </a>
 <a target="_blank" href="https://github.com/Mks1311" style="display: inline-block;">
